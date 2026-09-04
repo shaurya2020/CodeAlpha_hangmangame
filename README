@@ -1,6 +1,6 @@
 Hangman game to word guess
 ___________________________________________________________________________
-🛠️ How It Works:
+🛠️ How It Works:1
 Picks a random word from WORD_LIST.
 Displays underscores (_) for the word’s length.
 Allows player to guess letters or the whole word.
